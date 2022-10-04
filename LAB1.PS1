@@ -1,4 +1,4 @@
-# THIS IS AN UPDTE
+# TESTING PULL AUTOMATION
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
