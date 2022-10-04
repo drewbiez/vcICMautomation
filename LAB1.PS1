@@ -1,4 +1,6 @@
-﻿Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Write-Host " `t `t `t WELCOME!" -ForegroundColor Green
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 
 Write-Host "Installing VMware Modules" -ForegroundColor Green
