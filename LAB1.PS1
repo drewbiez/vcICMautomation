@@ -1,4 +1,4 @@
-Write-Host " `t `t `t WELCOME!" -ForegroundColor Green
+# THIS IS AN UPDTE
 
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
